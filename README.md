@@ -1,4 +1,6 @@
-<img src="logo_clear.png" align="middle" alt="Vitreum UI" width="300" height="300">
+<p align="center">
+  <img src="logo_clear.png" alt="Vitreum UI" width="250" />
+</p>
 
 ![npm version](https://img.shields.io/npm/v/vitreum-ui.svg)
 ![license](https://img.shields.io/github/license/PageSecOnd/vitreum-ui.svg)
